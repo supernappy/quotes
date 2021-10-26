@@ -29,3 +29,4 @@ addQuotes('Erin Hanson', 'You are your home');
  }
 console.log(generatedQuotes());
 console.log(generatedQuotes());
+console.log(generatedQuotes());
